@@ -76,6 +76,6 @@ README.md
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/btech.daily/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://shivam-mali.netlify.app)
 
-## 📜 License
+//
 
 This project is licensed under the MIT License.
